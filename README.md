@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+I love my dogs and having adevntures. 
+Coding is cool.
